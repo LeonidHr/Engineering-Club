@@ -1,5 +1,4 @@
-# \#Gymnasium Valentina Kuznetsova layout
-Multi-page website for gymnasium Valentina Kuznetsova
+# \# Engineering Club
 
 ## \#Demo
 [https://leonidhr.github.io/Engineering-Club/](https://leonidhr.github.io/Engineering-Club/)
