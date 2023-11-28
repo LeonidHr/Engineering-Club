@@ -3,7 +3,7 @@
 ## \#Demo
 [https://leonidhr.github.io/Engineering-Club/](https://leonidhr.github.io/Engineering-Club/)
 
-<img src="img/preview.gif" width="726">
+<img src="preview.gif" width="726">
 
 ## \#Features
 * Custom sliders
